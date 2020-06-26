@@ -13,7 +13,7 @@ import Persistencia.PersistenciaBIN;
 import Util.EPT;
 
 public class Main {
-	//MAIN
+	
 	public static void main(String[] args) {
 		IPersistencia persistencia = new PersistenciaBIN();
 		Empresa e = null;
